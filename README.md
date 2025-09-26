@@ -23,7 +23,7 @@
 
 | 平台 | 类型 | 介绍 |
 |:---:|:---:|:---|
-| **[anthcode.com](https://www.anthcode.com/)** | 🏆 **官方运营** | 项目官方直营的Claude拼车服务<br>提供200刀 Claude Code Max 套餐共享服务 |
+| **[anthcode.com](https://www.anthcode.com/)** | 🏆 **官方运营** | 官方直营的Claude拼车服务<br>提供200刀 Claude Code Max 套餐共享服务 |
 
 
 
